@@ -1,1 +1,9 @@
 A Twitter module for the IRC-bot phenny. Created for #unix-ag on freenode
+
+* OAuth credentials are saved to a pickle
+* Commands provided: .tweet .authurl .pin .who
+* .who all / .who admin modifies who can tweet from the channel
+
+Possible Additions:
+* Get Tweets/DM/Replies from Twitter and write them do channel
+* More configuration via IRC
